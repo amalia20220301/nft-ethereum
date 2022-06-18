@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Travel"
+    },
+    {
+      "trait_type": "Season",
+      "value": "Summer"
+    }
+  ],
+  "description": "sea",
+  "image": "ipfs://QmQtAZ9D2bq1W6UwGP9hWLGphZnwwVe2oZggrtJrNV2P27",
+  "name": "Sea"
+}
